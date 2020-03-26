@@ -23,7 +23,7 @@ then
 	echo "directory delete"
   fi
 fi
-wget $configfile
+wget https://raw.githubusercontent.com/threechord82/azure-quickstart-templates/master/101-Telegraf-InfluxDB-Grafana/scripts/Configfiles.zip
 unzip Configfiles.zip -d /home/Configfiles/
 
 

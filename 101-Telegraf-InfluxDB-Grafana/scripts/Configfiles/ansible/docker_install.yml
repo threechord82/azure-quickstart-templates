@@ -94,7 +94,7 @@
   vars: 
     DBName: TIG
     datasrcname: TIG
-    grafana_passwd: YOUR_PASSWORD
+    grafana_passwd: CLarholz.111
     grafana_user: admin
     influxdb_password: root
     influxdb_user: root
